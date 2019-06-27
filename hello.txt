@@ -1,0 +1,9 @@
+﻿echo "# notes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/lusky0216/notes.git
+git push -u origin master
+
+
+35.105:7021
