@@ -1,6 +1,6 @@
 ## 使用Git建立本地仓库并上传代码到GitHub
-+在本地建立项目文件夹，右键选择git bash here，打开git命令行操作界面。
-+在GitHub上新建repository，获取远程仓库地址。
++ 在本地建立项目文件夹，右键选择git bash here，打开git命令行操作界面。
++ 在GitHub上新建repository，获取远程仓库地址。
 1. 输入个人信息(代码提交者)
 	git config --global user.name "xxxx"
 	git config --global user.email xxxxx@qq.com
